@@ -1,0 +1,42 @@
+[
+  {
+    "id": "WIPRO_N1",
+    "ticker": "WIPRO",
+    "title": "Wipro announces new multi-million dollar digital engineering win in North America",
+    "publisher": "Moneycontrol",
+    "published_at": "2026-10-08T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/wipro-news-1.html",
+    "sentiment_label": "positive",
+    "relevance": 0.75
+  },
+  {
+    "id": "WIPRO_N2",
+    "ticker": "WIPRO",
+    "title": "CEO highlights consulting turnaround and AI orchestration platform adoption",
+    "publisher": "Business Standard",
+    "published_at": "2026-10-05T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/wipro-news-2.html",
+    "sentiment_label": "positive",
+    "relevance": 0.92
+  },
+  {
+    "id": "WIPRO_N3",
+    "ticker": "WIPRO",
+    "title": "Q2 operating margins steady at 16.4%; headcount additions resume in campus intake",
+    "publisher": "The Economic Times",
+    "published_at": "2026-10-01T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/wipro-news-3.html",
+    "sentiment_label": "neutral",
+    "relevance": 0.88
+  },
+  {
+    "id": "WIPRO_N4",
+    "ticker": "WIPRO",
+    "title": "Market awaits corporate announcements and annual strategy disclosures",
+    "publisher": "The Economic Times",
+    "published_at": "2026-09-28T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/wipro-news-4.html",
+    "sentiment_label": "neutral",
+    "relevance": 0.78
+  }
+]

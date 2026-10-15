@@ -1,0 +1,52 @@
+[
+  {
+    "id": "TCS_N1",
+    "ticker": "TCS",
+    "title": "TCS bags $1.2B digital transformation deal from European financial consortium",
+    "publisher": "Reuters India",
+    "published_at": "2026-10-09T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/tcs-news-1.html",
+    "sentiment_label": "positive",
+    "relevance": 0.92
+  },
+  {
+    "id": "TCS_N2",
+    "ticker": "TCS",
+    "title": "IT sector attrition stabilizes in Q2, TCS reports improved utilization rates",
+    "publisher": "The Economic Times",
+    "published_at": "2026-10-06T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/tcs-news-2.html",
+    "sentiment_label": "positive",
+    "relevance": 0.8
+  },
+  {
+    "id": "TCS_N3",
+    "ticker": "TCS",
+    "title": "TCS expands AI Centers of Excellence in partnership with cloud providers",
+    "publisher": "Business Standard",
+    "published_at": "2026-10-03T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/tcs-news-3.html",
+    "sentiment_label": "positive",
+    "relevance": 0.8
+  },
+  {
+    "id": "TCS_N4",
+    "ticker": "TCS",
+    "title": "Cautious client discretionary spending slows short-term deal conversions for TCS",
+    "publisher": "Reuters India",
+    "published_at": "2026-09-30T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/tcs-news-4.html",
+    "sentiment_label": "negative",
+    "relevance": 0.82
+  },
+  {
+    "id": "TCS_N5",
+    "ticker": "TCS",
+    "title": "TCS announces interim dividend of Rs 10 per share for shareholders",
+    "publisher": "Business Standard",
+    "published_at": "2026-09-27T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/tcs-news-5.html",
+    "sentiment_label": "neutral",
+    "relevance": 0.95
+  }
+]

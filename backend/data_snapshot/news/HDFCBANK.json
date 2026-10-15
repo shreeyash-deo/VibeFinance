@@ -1,0 +1,52 @@
+[
+  {
+    "id": "HDFCBANK_N1",
+    "ticker": "HDFCBANK",
+    "title": "HDFC Bank deposits grow 14.5% YoY; credit-deposit ratio normalizes smoothly",
+    "publisher": "Business Standard",
+    "published_at": "2026-10-08T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/hdfcbank-news-1.html",
+    "sentiment_label": "positive",
+    "relevance": 0.91
+  },
+  {
+    "id": "HDFCBANK_N2",
+    "ticker": "HDFCBANK",
+    "title": "Net Interest Margin (NIM) holds firm at 3.45% for the quarter: Management",
+    "publisher": "Reuters India",
+    "published_at": "2026-10-05T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/hdfcbank-news-2.html",
+    "sentiment_label": "positive",
+    "relevance": 0.84
+  },
+  {
+    "id": "HDFCBANK_N3",
+    "ticker": "HDFCBANK",
+    "title": "HDFC Bank expands rural branch footprint with 120 new touchpoints",
+    "publisher": "The Economic Times",
+    "published_at": "2026-10-03T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/hdfcbank-news-3.html",
+    "sentiment_label": "neutral",
+    "relevance": 0.94
+  },
+  {
+    "id": "HDFCBANK_N4",
+    "ticker": "HDFCBANK",
+    "title": "Foreign institutional investors hold steady stake post quarterly portfolio rebalancing",
+    "publisher": "Business Standard",
+    "published_at": "2026-10-01T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/hdfcbank-news-4.html",
+    "sentiment_label": "neutral",
+    "relevance": 0.88
+  },
+  {
+    "id": "HDFCBANK_N5",
+    "ticker": "HDFCBANK",
+    "title": "RBI regulatory audit highlights robust capital adequacy ratios above statutory limits",
+    "publisher": "Moneycontrol",
+    "published_at": "2026-09-28T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/hdfcbank-news-5.html",
+    "sentiment_label": "positive",
+    "relevance": 0.91
+  }
+]

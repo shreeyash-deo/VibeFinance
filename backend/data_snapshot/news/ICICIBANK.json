@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ICICIBANK_N1",
+    "ticker": "ICICIBANK",
+    "title": "ICICI Bank records 18% growth in retail lending driven by digital origination",
+    "publisher": "Livemint",
+    "published_at": "2026-10-08T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/icicibank-news-1.html",
+    "sentiment_label": "positive",
+    "relevance": 0.77
+  },
+  {
+    "id": "ICICIBANK_N2",
+    "ticker": "ICICIBANK",
+    "title": "Asset quality pristine as gross NPA drops to multi-year low of 1.95%",
+    "publisher": "Livemint",
+    "published_at": "2026-10-06T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/icicibank-news-2.html",
+    "sentiment_label": "positive",
+    "relevance": 0.75
+  },
+  {
+    "id": "ICICIBANK_N3",
+    "ticker": "ICICIBANK",
+    "title": "ICICI Bank iMobile app processes record monthly transaction volumes",
+    "publisher": "Business Standard",
+    "published_at": "2026-10-02T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/icicibank-news-3.html",
+    "sentiment_label": "positive",
+    "relevance": 0.82
+  },
+  {
+    "id": "ICICIBANK_N4",
+    "ticker": "ICICIBANK",
+    "title": "Unsecured personal loan portfolio shows controlled slippages, says risk committee",
+    "publisher": "Moneycontrol",
+    "published_at": "2026-09-29T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/icicibank-news-4.html",
+    "sentiment_label": "neutral",
+    "relevance": 0.89
+  }
+]

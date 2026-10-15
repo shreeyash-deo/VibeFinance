@@ -1,0 +1,42 @@
+[
+  {
+    "id": "LT_N1",
+    "ticker": "LT",
+    "title": "Larsen & Toubro order book crosses Rs 5 lakh crore milestone with massive hydrocarbon win",
+    "publisher": "The Economic Times",
+    "published_at": "2026-10-09T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/lt-news-1.html",
+    "sentiment_label": "positive",
+    "relevance": 0.93
+  },
+  {
+    "id": "LT_N2",
+    "ticker": "LT",
+    "title": "L&T signs strategic green hydrogen infrastructure contract in Middle East",
+    "publisher": "The Economic Times",
+    "published_at": "2026-10-06T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/lt-news-2.html",
+    "sentiment_label": "positive",
+    "relevance": 0.85
+  },
+  {
+    "id": "LT_N3",
+    "ticker": "LT",
+    "title": "Core infrastructure execution on schedule; domestic private capex picking up",
+    "publisher": "Moneycontrol",
+    "published_at": "2026-10-03T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/lt-news-3.html",
+    "sentiment_label": "positive",
+    "relevance": 0.77
+  },
+  {
+    "id": "LT_N4",
+    "ticker": "LT",
+    "title": "Supply chain delivery times extended due to Red Sea shipping rerouting",
+    "publisher": "The Economic Times",
+    "published_at": "2026-09-30T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/lt-news-4.html",
+    "sentiment_label": "neutral",
+    "relevance": 0.94
+  }
+]

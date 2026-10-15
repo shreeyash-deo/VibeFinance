@@ -1,0 +1,32 @@
+[
+  {
+    "id": "AXISBANK_N1",
+    "ticker": "AXISBANK",
+    "title": "Axis Bank completes Citi retail integration; synergy cost savings on track",
+    "publisher": "Reuters India",
+    "published_at": "2026-10-07T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/axisbank-news-1.html",
+    "sentiment_label": "positive",
+    "relevance": 0.82
+  },
+  {
+    "id": "AXISBANK_N2",
+    "ticker": "AXISBANK",
+    "title": "Net interest income grows 11% YoY; credit cost guidance maintained at 0.50%",
+    "publisher": "Business Standard",
+    "published_at": "2026-10-04T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/axisbank-news-2.html",
+    "sentiment_label": "positive",
+    "relevance": 0.77
+  },
+  {
+    "id": "AXISBANK_N3",
+    "ticker": "AXISBANK",
+    "title": "Card spends jump 22% YoY on festive season e-commerce partnerships",
+    "publisher": "Business Standard",
+    "published_at": "2026-10-01T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/axisbank-news-3.html",
+    "sentiment_label": "positive",
+    "relevance": 0.77
+  }
+]

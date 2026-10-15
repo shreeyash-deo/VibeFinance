@@ -1,0 +1,42 @@
+[
+  {
+    "id": "MARUTI_N1",
+    "ticker": "MARUTI",
+    "title": "Maruti Suzuki SUV market share hits 26% led by Grand Vitara and Brezza",
+    "publisher": "Business Standard",
+    "published_at": "2026-10-08T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/maruti-news-1.html",
+    "sentiment_label": "positive",
+    "relevance": 0.82
+  },
+  {
+    "id": "MARUTI_N2",
+    "ticker": "MARUTI",
+    "title": "Export volumes jump 14% to Latin America and African markets",
+    "publisher": "The Economic Times",
+    "published_at": "2026-10-05T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/maruti-news-2.html",
+    "sentiment_label": "positive",
+    "relevance": 0.83
+  },
+  {
+    "id": "MARUTI_N3",
+    "ticker": "MARUTI",
+    "title": "Entry-level mini segment sales continue to face demand pressure from budget buyers",
+    "publisher": "Reuters India",
+    "published_at": "2026-10-01T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/maruti-news-3.html",
+    "sentiment_label": "negative",
+    "relevance": 0.83
+  },
+  {
+    "id": "MARUTI_N4",
+    "ticker": "MARUTI",
+    "title": "Maruti prepares for first battery electric vehicle launch in early 2027",
+    "publisher": "Business Standard",
+    "published_at": "2026-09-27T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/maruti-news-4.html",
+    "sentiment_label": "positive",
+    "relevance": 0.79
+  }
+]

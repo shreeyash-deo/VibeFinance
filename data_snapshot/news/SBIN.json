@@ -1,0 +1,42 @@
+[
+  {
+    "id": "SBIN_N1",
+    "ticker": "SBIN",
+    "title": "SBI posts record quarterly net profit led by lower provisioning requirements",
+    "publisher": "The Economic Times",
+    "published_at": "2026-10-08T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/sbin-news-1.html",
+    "sentiment_label": "positive",
+    "relevance": 0.92
+  },
+  {
+    "id": "SBIN_N2",
+    "ticker": "SBIN",
+    "title": "Corporate loan sanctions up 16% as capex revival gains ground",
+    "publisher": "Business Standard",
+    "published_at": "2026-10-04T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/sbin-news-2.html",
+    "sentiment_label": "positive",
+    "relevance": 0.76
+  },
+  {
+    "id": "SBIN_N3",
+    "ticker": "SBIN",
+    "title": "SBI Chairman confident on credit growth trajectory despite tighter liquidity",
+    "publisher": "The Economic Times",
+    "published_at": "2026-10-01T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/sbin-news-3.html",
+    "sentiment_label": "neutral",
+    "relevance": 0.75
+  },
+  {
+    "id": "SBIN_N4",
+    "ticker": "SBIN",
+    "title": "Public sector banking basket outperforms benchmark index on treasury gains",
+    "publisher": "Livemint",
+    "published_at": "2026-09-27T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/sbin-news-4.html",
+    "sentiment_label": "positive",
+    "relevance": 0.89
+  }
+]

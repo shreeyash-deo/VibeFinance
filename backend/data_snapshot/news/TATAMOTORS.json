@@ -1,0 +1,52 @@
+[
+  {
+    "id": "TATAMOTORS_N1",
+    "ticker": "TATAMOTORS",
+    "title": "Tata Motors domestic passenger vehicle dispatches show steady retail momentum",
+    "publisher": "Business Standard",
+    "published_at": "2026-10-08T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/tatamotors-news-1.html",
+    "sentiment_label": "positive",
+    "relevance": 0.86
+  },
+  {
+    "id": "TATAMOTORS_N2",
+    "ticker": "TATAMOTORS",
+    "title": "Management warns of European EV margin compression and elevated supplier costs in JLR",
+    "publisher": "Moneycontrol",
+    "published_at": "2026-10-07T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/tatamotors-news-2.html",
+    "sentiment_label": "negative",
+    "relevance": 0.9
+  },
+  {
+    "id": "TATAMOTORS_N3",
+    "ticker": "TATAMOTORS",
+    "title": "Commercial vehicle segment witnesses transient slowdown ahead of emission norms",
+    "publisher": "Livemint",
+    "published_at": "2026-10-03T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/tatamotors-news-3.html",
+    "sentiment_label": "negative",
+    "relevance": 0.91
+  },
+  {
+    "id": "TATAMOTORS_N4",
+    "ticker": "TATAMOTORS",
+    "title": "Tata Motors EV sales record highest quarterly milestone in domestic electric fleet",
+    "publisher": "Reuters India",
+    "published_at": "2026-10-01T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/tatamotors-news-4.html",
+    "sentiment_label": "positive",
+    "relevance": 0.89
+  },
+  {
+    "id": "TATAMOTORS_N5",
+    "ticker": "TATAMOTORS",
+    "title": "Automotive analysts note divergence between strong technical chart and softening EBITDA guidance",
+    "publisher": "Livemint",
+    "published_at": "2026-09-28T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/tatamotors-news-5.html",
+    "sentiment_label": "neutral",
+    "relevance": 0.87
+  }
+]

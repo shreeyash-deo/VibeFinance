@@ -1,0 +1,42 @@
+[
+  {
+    "id": "KOTAKBANK_N1",
+    "ticker": "KOTAKBANK",
+    "title": "Kotak Bank receives regulatory clearance to resume digital customer onboarding",
+    "publisher": "Livemint",
+    "published_at": "2026-10-08T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/kotakbank-news-1.html",
+    "sentiment_label": "positive",
+    "relevance": 0.84
+  },
+  {
+    "id": "KOTAKBANK_N2",
+    "ticker": "KOTAKBANK",
+    "title": "Management accelerates technology infrastructure investments and cybersecurity upgrades",
+    "publisher": "The Economic Times",
+    "published_at": "2026-10-04T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/kotakbank-news-2.html",
+    "sentiment_label": "positive",
+    "relevance": 0.89
+  },
+  {
+    "id": "KOTAKBANK_N3",
+    "ticker": "KOTAKBANK",
+    "title": "Deposit growth outpaces loan book expansion; CASA ratio remains resilient at 47%",
+    "publisher": "Livemint",
+    "published_at": "2026-10-01T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/kotakbank-news-3.html",
+    "sentiment_label": "neutral",
+    "relevance": 0.79
+  },
+  {
+    "id": "KOTAKBANK_N4",
+    "ticker": "KOTAKBANK",
+    "title": "Analyst upgrade on Kotak Bank following removal of regulatory overhang",
+    "publisher": "Business Standard",
+    "published_at": "2026-09-28T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/kotakbank-news-4.html",
+    "sentiment_label": "positive",
+    "relevance": 0.93
+  }
+]

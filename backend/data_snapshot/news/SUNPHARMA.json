@@ -1,0 +1,42 @@
+[
+  {
+    "id": "SUNPHARMA_N1",
+    "ticker": "SUNPHARMA",
+    "title": "US FDA issues Form 483 with 6 inspectional observations for Sun Pharma Halol facility",
+    "publisher": "Reuters India",
+    "published_at": "2026-10-09T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/sunpharma-news-1.html",
+    "sentiment_label": "negative",
+    "relevance": 0.81
+  },
+  {
+    "id": "SUNPHARMA_N2",
+    "ticker": "SUNPHARMA",
+    "title": "Sun Pharma global specialty revenue rises 19% led by Ilumya and Cequa prescriptions",
+    "publisher": "Business Standard",
+    "published_at": "2026-10-06T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/sunpharma-news-2.html",
+    "sentiment_label": "positive",
+    "relevance": 0.88
+  },
+  {
+    "id": "SUNPHARMA_N3",
+    "ticker": "SUNPHARMA",
+    "title": "Domestic formulation business outperforms Indian Pharma Market (IPM) benchmark",
+    "publisher": "Reuters India",
+    "published_at": "2026-10-02T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/sunpharma-news-3.html",
+    "sentiment_label": "positive",
+    "relevance": 0.79
+  },
+  {
+    "id": "SUNPHARMA_N4",
+    "ticker": "SUNPHARMA",
+    "title": "R&D expenditure targeted at 7% of revenues for clinical trial pipeline progression",
+    "publisher": "Moneycontrol",
+    "published_at": "2026-09-29T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/sunpharma-news-4.html",
+    "sentiment_label": "neutral",
+    "relevance": 0.76
+  }
+]

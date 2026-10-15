@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ASIANPAINT_N1",
+    "ticker": "ASIANPAINT",
+    "title": "Asian Paints faces margin pressure from heightened competition in decorative segment",
+    "publisher": "The Economic Times",
+    "published_at": "2026-10-08T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/asianpaint-news-1.html",
+    "sentiment_label": "negative",
+    "relevance": 0.84
+  },
+  {
+    "id": "ASIANPAINT_N2",
+    "ticker": "ASIANPAINT",
+    "title": "Industrial coatings division grows double digits supported by automotive manufacturing",
+    "publisher": "Moneycontrol",
+    "published_at": "2026-10-04T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/asianpaint-news-2.html",
+    "sentiment_label": "positive",
+    "relevance": 0.89
+  },
+  {
+    "id": "ASIANPAINT_N3",
+    "ticker": "ASIANPAINT",
+    "title": "Raw material titanium dioxide prices soften, offering slight gross margin relief",
+    "publisher": "The Economic Times",
+    "published_at": "2026-10-01T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/asianpaint-news-3.html",
+    "sentiment_label": "positive",
+    "relevance": 0.82
+  }
+]

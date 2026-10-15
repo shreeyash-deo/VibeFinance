@@ -1,0 +1,42 @@
+[
+  {
+    "id": "BHARTIARTL_N1",
+    "ticker": "BHARTIARTL",
+    "title": "Bharti Airtel ARPU climbs to Rs 215 as tariff hike benefits flow through",
+    "publisher": "Business Standard",
+    "published_at": "2026-10-08T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/bhartiartl-news-1.html",
+    "sentiment_label": "positive",
+    "relevance": 0.8
+  },
+  {
+    "id": "BHARTIARTL_N2",
+    "ticker": "BHARTIARTL",
+    "title": "Airtel Africa subscriber base grows 9% YoY; forex volatility partially hedged",
+    "publisher": "Moneycontrol",
+    "published_at": "2026-10-05T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/bhartiartl-news-2.html",
+    "sentiment_label": "neutral",
+    "relevance": 0.85
+  },
+  {
+    "id": "BHARTIARTL_N3",
+    "ticker": "BHARTIARTL",
+    "title": "Bharti Airtel prepaid to postpaid conversion surges with 5G unlimited plans",
+    "publisher": "The Economic Times",
+    "published_at": "2026-10-02T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/bhartiartl-news-3.html",
+    "sentiment_label": "positive",
+    "relevance": 0.76
+  },
+  {
+    "id": "BHARTIARTL_N4",
+    "ticker": "BHARTIARTL",
+    "title": "Company prepays high-cost spectrum dues to Department of Telecom",
+    "publisher": "The Economic Times",
+    "published_at": "2026-09-28T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/bhartiartl-news-4.html",
+    "sentiment_label": "positive",
+    "relevance": 0.83
+  }
+]

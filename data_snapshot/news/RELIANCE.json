@@ -1,0 +1,52 @@
+[
+  {
+    "id": "RELIANCE_N1",
+    "ticker": "RELIANCE",
+    "title": "Reliance Jio expands 5G enterprise solutions across Tier-2 cities",
+    "publisher": "Reuters India",
+    "published_at": "2026-10-09T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/reliance-news-1.html",
+    "sentiment_label": "positive",
+    "relevance": 0.83
+  },
+  {
+    "id": "RELIANCE_N2",
+    "ticker": "RELIANCE",
+    "title": "RIL retail arm announces strategic partnership with global lifestyle brands",
+    "publisher": "The Economic Times",
+    "published_at": "2026-10-07T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/reliance-news-2.html",
+    "sentiment_label": "positive",
+    "relevance": 0.92
+  },
+  {
+    "id": "RELIANCE_N3",
+    "ticker": "RELIANCE",
+    "title": "Crude refining margins remain volatile amidst geopolitical tensions in Middle East",
+    "publisher": "Business Standard",
+    "published_at": "2026-10-05T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/reliance-news-3.html",
+    "sentiment_label": "neutral",
+    "relevance": 0.85
+  },
+  {
+    "id": "RELIANCE_N4",
+    "ticker": "RELIANCE",
+    "title": "Jio Financial Services gains traction with new mutual fund offerings",
+    "publisher": "Business Standard",
+    "published_at": "2026-10-02T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/reliance-news-4.html",
+    "sentiment_label": "positive",
+    "relevance": 0.92
+  },
+  {
+    "id": "RELIANCE_N5",
+    "ticker": "RELIANCE",
+    "title": "Brokerage maintains outperform rating on Reliance citing telecom ARPU hike potential",
+    "publisher": "Business Standard",
+    "published_at": "2026-09-28T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/reliance-news-5.html",
+    "sentiment_label": "positive",
+    "relevance": 0.94
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "HINDUNILVR_N1",
+    "ticker": "HINDUNILVR",
+    "title": "HUL reports gradual volume recovery in rural markets following normal monsoon",
+    "publisher": "The Economic Times",
+    "published_at": "2026-10-08T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/hindunilvr-news-1.html",
+    "sentiment_label": "positive",
+    "relevance": 0.83
+  },
+  {
+    "id": "HINDUNILVR_N2",
+    "ticker": "HINDUNILVR",
+    "title": "Raw material price inflation in palm oil impacts short-term gross margins",
+    "publisher": "Reuters India",
+    "published_at": "2026-10-06T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/hindunilvr-news-2.html",
+    "sentiment_label": "negative",
+    "relevance": 0.86
+  },
+  {
+    "id": "HINDUNILVR_N3",
+    "ticker": "HINDUNILVR",
+    "title": "HUL expands premium beauty and personal care portfolio with direct-to-consumer launches",
+    "publisher": "Business Standard",
+    "published_at": "2026-10-02T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/hindunilvr-news-3.html",
+    "sentiment_label": "positive",
+    "relevance": 0.83
+  },
+  {
+    "id": "HINDUNILVR_N4",
+    "ticker": "HINDUNILVR",
+    "title": "Competitive intensity from regional FMCG players remains heightened: Analyst call",
+    "publisher": "Business Standard",
+    "published_at": "2026-09-29T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/hindunilvr-news-4.html",
+    "sentiment_label": "neutral",
+    "relevance": 0.83
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ITC_N1",
+    "ticker": "ITC",
+    "title": "ITC cigarette segment volumes show resilient 4% growth; FMCG-Others margins expand",
+    "publisher": "Reuters India",
+    "published_at": "2026-10-08T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/itc-news-1.html",
+    "sentiment_label": "positive",
+    "relevance": 0.86
+  },
+  {
+    "id": "ITC_N2",
+    "ticker": "ITC",
+    "title": "Hotels business demerger receives final regulatory approval from NCLT",
+    "publisher": "The Economic Times",
+    "published_at": "2026-10-05T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/itc-news-2.html",
+    "sentiment_label": "positive",
+    "relevance": 0.84
+  },
+  {
+    "id": "ITC_N3",
+    "ticker": "ITC",
+    "title": "Paperboards and packaging division faces mild headwinds from cheaper imported pulp",
+    "publisher": "Business Standard",
+    "published_at": "2026-10-02T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/itc-news-3.html",
+    "sentiment_label": "neutral",
+    "relevance": 0.9
+  },
+  {
+    "id": "ITC_N4",
+    "ticker": "ITC",
+    "title": "ITC announces healthy interim dividend yield of 3.8% backed by strong cash flows",
+    "publisher": "Business Standard",
+    "published_at": "2026-09-29T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/itc-news-4.html",
+    "sentiment_label": "positive",
+    "relevance": 0.92
+  }
+]

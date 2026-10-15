@@ -1,0 +1,52 @@
+[
+  {
+    "id": "INFY_N1",
+    "ticker": "INFY",
+    "title": "Infosys raises FY27 constant currency revenue growth guidance to 5.0%-6.0%",
+    "publisher": "The Economic Times",
+    "published_at": "2026-10-09T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/infy-news-1.html",
+    "sentiment_label": "positive",
+    "relevance": 0.93
+  },
+  {
+    "id": "INFY_N2",
+    "ticker": "INFY",
+    "title": "Infosys wins multi-year generative AI partnership with leading Nordic bank",
+    "publisher": "Livemint",
+    "published_at": "2026-10-07T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/infy-news-2.html",
+    "sentiment_label": "positive",
+    "relevance": 0.86
+  },
+  {
+    "id": "INFY_N3",
+    "ticker": "INFY",
+    "title": "Strong large deal TCV at $3.2 billion reported in latest earnings disclosure",
+    "publisher": "Moneycontrol",
+    "published_at": "2026-10-05T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/infy-news-3.html",
+    "sentiment_label": "positive",
+    "relevance": 0.79
+  },
+  {
+    "id": "INFY_N4",
+    "ticker": "INFY",
+    "title": "Top-tier brokerages upgrade Infosys target price on robust margin execution",
+    "publisher": "Reuters India",
+    "published_at": "2026-10-02T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/infy-news-4.html",
+    "sentiment_label": "positive",
+    "relevance": 0.85
+  },
+  {
+    "id": "INFY_N5",
+    "ticker": "INFY",
+    "title": "Infosys inaugurates new state-of-the-art campus in Bengaluru to support cloud growth",
+    "publisher": "Reuters India",
+    "published_at": "2026-09-29T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/infy-news-5.html",
+    "sentiment_label": "positive",
+    "relevance": 0.76
+  }
+]

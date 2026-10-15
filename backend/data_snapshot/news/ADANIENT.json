@@ -1,0 +1,52 @@
+[
+  {
+    "id": "ADANIENT_N1",
+    "ticker": "ADANIENT",
+    "title": "Adani Enterprises shares experience heavy trading volume amid block trade rumors",
+    "publisher": "Business Standard",
+    "published_at": "2026-10-09T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/adanient-news-1.html",
+    "sentiment_label": "neutral",
+    "relevance": 0.88
+  },
+  {
+    "id": "ADANIENT_N2",
+    "ticker": "ADANIENT",
+    "title": "Stock slides 3.5% as SEBI filing confirms promoter pledge increase from 12% to 19%",
+    "publisher": "Business Standard",
+    "published_at": "2026-10-09T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/adanient-news-2.html",
+    "sentiment_label": "negative",
+    "relevance": 0.78
+  },
+  {
+    "id": "ADANIENT_N3",
+    "ticker": "ADANIENT",
+    "title": "Auditor issues qualification note on related-party infrastructure loan disclosures",
+    "publisher": "Livemint",
+    "published_at": "2026-10-08T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/adanient-news-3.html",
+    "sentiment_label": "negative",
+    "relevance": 0.81
+  },
+  {
+    "id": "ADANIENT_N4",
+    "ticker": "ADANIENT",
+    "title": "Kutch copper project phase 1 commissioned ahead of scheduled operational timeline",
+    "publisher": "Moneycontrol",
+    "published_at": "2026-10-04T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/adanient-news-4.html",
+    "sentiment_label": "positive",
+    "relevance": 0.77
+  },
+  {
+    "id": "ADANIENT_N5",
+    "ticker": "ADANIENT",
+    "title": "Adani Airports passenger traffic reaches record monthly high of 8.5 million travelers",
+    "publisher": "The Economic Times",
+    "published_at": "2026-09-30T10:30:00Z",
+    "url": "https://www.moneycontrol.com/news/business/stocks/adanient-news-5.html",
+    "sentiment_label": "positive",
+    "relevance": 0.84
+  }
+]
